@@ -16,7 +16,9 @@
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0"
+    "@babel/core": "^7.9.0",
+    "react-lazy-load-image-component": "^1.5.1",
+    "react-native-paper": "^4.9.2"
   },
   "private": true
 }
