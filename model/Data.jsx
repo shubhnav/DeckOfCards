@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import View from '../view/View'
+import View from '../view/View.jsx'
 
 class Data extends Component{
   constructor(props){
